@@ -1,0 +1,140 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Act of maintenance. At Edinburgh, the third day of February, the yeer of God one thousand six hundred and fourty nine yeers.</title>
+            <author>Scotland. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92498</idno>
+            <idno type="STC">Wing S1118</idno>
+            <idno type="STC">Thomason 669.f.13[80]</idno>
+            <idno type="STC">ESTC R211201</idno>
+            <idno type="EEBO-CITATION">99869933</idno>
+            <idno type="PROQUEST">99869933</idno>
+            <idno type="VID">162976</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92498)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162976)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f13[80])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Act of maintenance. At Edinburgh, the third day of February, the yeer of God one thousand six hundred and fourty nine yeers.</title>
+                  <author>Scotland. Parliament.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Evan Tyler, Printer to the Kings most excellent Majesty,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: William Scot, Cler. Parl.</note>
+                  <note>Settling the sums to be paid monthly by the shires and burghs to Sir James Stewart, Provost of Edinburgh. The Sheriffdom of Argyle excused one month and Bute half a month. Inverness excused as by Act, 5 January 1647 -- Cf. Steele.</note>
+                  <note>Annotation on Thomason copy: "1648"; 9 in imprint date crossed through.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Taxation --  Scotland --  Early works to 1800.</term>
+               <term>Scotland --  History --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="Act_of_Scottish_Parliament">
+            <pb facs="tcp:162976:1" rendition="simple:additions"/>
+            <head>ACT OF MAINTENANCE.</head>
+            <opener>
+               <dateline>
+                  <hi>At</hi> Edinburgh, <date>
+                     <hi>the third day of</hi> February, <hi>The yeer of God one thouſand ſix hundred and fourty nine yeers.</hi>
+                  </date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>HE Eſtates of Parliament, now preſently conveened in this ſecond Seſsion of the ſecond Trienniall Parliament by vertue of an Act of the Committee of Eſtates, who had power and Authority from the laſt Parliament for conveening the Parliament, Conſidering the dangers now threatening Religion, the Covenant, and the peace of thir Kingdoms, And that they are thereby neceſſitate to keep up the For<g ref="char:EOLhyphen"/>ces within this Kingdom, and to provide for their entertainment; Have therefore thought fit to proro<g ref="char:EOLhyphen"/>gate and continue the monethly Maintenance, as it was impoſed upon the ſaid Kingdom, by vertue of an Act of the Committee of Eſtates of the 3. of <hi>November</hi> laſt by-paſt 1648. years, for one moneth after the moneth of <hi>Ianuary</hi> contained in the former Act. Whilk moneth ſhall begin upon the firſt day of <hi>February</hi> inſtant, and continue till the firſt day of <hi>March</hi> next to come, with a deduction of the juſt third part of the ſaid monethly Maintenance, whilk was formerly eſtabliſhed, Save that the ſaids Shires and Burghs ſhall be onely lyable in payment of the two part of the Maintenance formerly impoſed up<g ref="char:EOLhyphen"/>on them for the ſaid moneth of <hi>February,</hi> Whilk two part ſhall be payed by them without any de<g ref="char:EOLhyphen"/>duction or defalcation: And therefore Statutes and Ordains, That ilk Burgh and Shire within this Kingdom, are and ſhall be lyable, and obliged in payment of the particular ſums of money under-written for the ſaid moneth of <hi>February,</hi> And that betwixt and the 15. day of <hi>February</hi> inſtant, And Ordains the ſame to be payed, to Sir <hi>Iames Stewart,</hi> Proveſt of <hi>Edinburgh,</hi> Treaſurer of the Army, and Collector-Generall of the ſaid Maintenance, or his Deputies, or ſub-Collectors: And that the ſums to be payed by the ſeverall Shires and Burghs, be as follows: <hi>viz.</hi> The Sheriffdom of <hi>Orkney</hi> of moneth<g ref="char:EOLhyphen"/>ly pay, 1143. Merks. <hi>Innernes</hi> 4176. M. <hi>Caithnes</hi> 945. M. <hi>Cromartie</hi> 99. M. <hi>Sutherland</hi> 423. M. <hi>Nairne</hi> 315. M. <hi>Elgine</hi> 1890. M. <hi>Aberdeen</hi> 6543. M. <hi>Bamff</hi> 1431. M. <hi>Kincairdin</hi> 1566. M. <hi>Forfar</hi> 5004. M. <hi>Perth</hi> 8001. M. <hi>Fyfe</hi> 6642. M. <hi>Stirling</hi> 2538. m. <hi>Kin<g ref="char:EOLhyphen"/>roſe</hi> 144. m. <hi>Clackmannan</hi> 522. m. <hi>Edinburgh</hi> 4167. m. <hi>Linlithgow</hi> 1746. m. <hi>Hadingtoun</hi> 3384. m. <hi>Berwick</hi> 3555. m. <hi>Roxburgh</hi> 5778. m. <hi>Selkirk</hi> 1278. m. <hi>Peebles</hi> 1638. m. <hi>Lanerk</hi> 5382. m. <hi>Air</hi> 6066. m. <hi>Wigtoun</hi> and <hi>Kirkcudbright</hi> 4374. m. <hi>Dumfreis</hi> 4446. m. <hi>Renfrew</hi> 2205. m. <hi>Dumbartan</hi> 1233. m. <hi>Argyle</hi> 2907. m. <hi>Bute</hi> 459. m. Follows the ſums payable monethly by the Burghs, conform to their taxt Roll: viz. <hi>Edinburgh</hi> 5175. m. <hi>Perth</hi> 810. m. <hi>Dundee</hi> 1200. m. <hi>Aberdeen</hi> 1260. m. <hi>Stirling</hi> 240. m. <hi>Linlith<g ref="char:EOLhyphen"/>gow</hi> 324. m. St. <hi>Andrews</hi> 780. m. <hi>Glaſgow</hi> 1530. m. <hi>Air</hi> 342. m. <hi>Hadingtoun</hi> 324. m. <hi>Dayſert</hi> 270. m. <hi>Kirkaldie</hi> 600. m. <hi>Monroſe</hi> 324. m. <hi>Cowpar</hi> 216. m. <hi>Auſtruther</hi> eiſter 180. m. <hi>Dumfreis</hi> 270. m. <hi>Innernes</hi> 450. m. <hi>Breichen</hi> 220. m. <hi>Irving</hi> 252. m. <hi>Elgine</hi> 135. m. <hi>Iedburgh</hi> 126. m. <hi>Kircudbright</hi> 180. m. <hi>Wigtoun</hi> 135. m. <hi>Pittinweyme</hi> 120. m. <hi>Dumfirmling</hi> 162. m. <hi>Dumbartan</hi> 162. m. <hi>Renfrew</hi> 90. m. <hi>Lanerk</hi> 162. m. <hi>Aberbrothok</hi> 81. m. <hi>Bruntiland</hi> 216. m. <hi>Peibles</hi> 108. m. <hi>Craill</hi> 216. m. <hi>Kinghorne</hi> 108. m. <hi>Taine</hi> 90. m. <hi>Selkirk</hi> 126. m. <hi>Auſtruther</hi> weſter 54. m. <hi>Culroſe</hi> 90. m. <hi>Dumbar</hi> 180. m. <hi>Bamff</hi> 72. m. <hi>Whithorne</hi> 45. m. <hi>Forfar</hi> 27. m. <hi>Rotheſay</hi> 60. m. <hi>Forreſs</hi> 54. m. <hi>Rutherglen</hi> 45. m. <hi>Northberwick</hi> 36. m. <hi>Cullein</hi> 27. m. <hi>Nairne</hi> 36. m. <hi>Lawder</hi> 45. m. <hi>Innerkeithing</hi> 90. m. <hi>Kilrynnie</hi> 27. m. <hi>Annan</hi> 30. m. <hi>Lochmaben</hi> 18. m. <hi>Sanquhair</hi> 27. m. <hi>Galloway</hi> 18. m. <hi>Dingwall</hi> 18. m. <hi>Queensferrie</hi> 108. m. <hi>Dor<g ref="char:EOLhyphen"/>noch.</hi> 18. For the better In-bringing and Collecting whereof, The ſaids Eſtates of Parliament, allows to the ſaid Sir <hi>Iames Stewart</hi> De<g ref="char:EOLhyphen"/>puties, one or more in each Shire and Paroch, in manner contained in the Act for the Taxt and Loan; Which Collectors and Deputies foreſaids and Clerks to be appointed by him, ſhall have ſuch Fee as is allowed in the Act of Loan and Taxt: The Burghs alwayes being free of the aforeſaids Fees. And the Eſtates Ordains that the Letters and Charges to follow upon this Act for payment of the foreſaid Maintenance ſhall be raiſed and direct at the inſtance of the ſaid Sir <hi>Iames Stewart</hi> and Collectors aforeſaid againſt the ſub-Collectors of Shires, Magiſtrates of Burghs, Collectors of Paroches, Heritors, Fewers, Life-renters, and others indebted in payment of their ſeve<g ref="char:EOLhyphen"/>rall proportions of this monethly Maintenance now impoſed, And with power to the ſaid Sir <hi>Iames Stewart,</hi> that if any Shire or Burgh be deficient in payment of their parts of this Maintenance, to imploy any Forces that ſhall happen to be upon the bounds for the time, or in the next neigbouring bounds adjacent thereto, for uplifting of the ſaid moneths Maintenance from the deficient Shires, Burghs and Paro<g ref="char:EOLhyphen"/>ches, which Troops are to receive their entertainment from the deficients at the ordinary rates beſide the payment of their maintenance: And it is hereby Ordained that the Committees of War within the ſeverall Shires ſhall be aiding and aſſiſting the ſaid Generall Commiſ<g ref="char:EOLhyphen"/>ſary herein, for inbringing of the ſaid maintenance; And in regard of the prorogating of the foreſaid Maintenance on the Shires and Burghs for the ſaid moneth of <hi>February,</hi> It is Statute and Ordained by the Eſtates of Parliament, that every debtour ſhall have Retention from the Creditors of one of each eight payable for annual Rent for the ſaid moneth above ſpecified, So that the debtor ſhall be lyable in payment of ſeven of annual Rent of each hundreth of ſtock proportionally according to the ſaid moneth, With this proviſion always, that no debtor whatſoever ſhall have the foreſaid benefit of Retention who ſhall not pay his annual Rent to the Creditor within the ſpace of ane yeer after that one preceding years annual Rent is fully reſting, owing, unpaid: And in regard of the preſent diſtreſſed condition of the Sheriffdoms of <hi>Argyle</hi> and <hi>Bute,</hi> The Eſtates do exeem the whole Sheriffdom of <hi>Argyle</hi> from all payment of the foreſaid one moneths maintenance of <hi>February</hi> inſtant; As alſo exeems the Sheriffdom of <hi>Bute,</hi> from all payment of the equall half of the ſaid moneths Main<g ref="char:EOLhyphen"/>tenance; And Ordains the ſame Shire of <hi>Bute</hi> to be only liable in payment of the whole half of the ſaid moneths Maintenance, And to be proportionably payed by the Heretors and others lyable in payment thereof through the whole Shire of <hi>Bute:</hi> As alſo the Eſtates declares this preſent Act to be without prejudice of the Act granted in favours of the Town of <hi>Innernes</hi> of the fift of <hi>Ianuary</hi> 1647. years, That any Taxations or Impoſitions to be layed on that Town be allowed to them in part of their loſſes conform to the tenour of that Act: And laſt<g ref="char:EOLhyphen"/>ly, it is Ordained that no ſuſpenſion be granted without conſignation; and that all Heritors within Burghs, Pendicles and Liberties thereof ſhall contribute with them for payment of the Maintenance, as is mentioned in the Act of the 27. of <hi>February</hi> 1645. years. And the ſaids Eſtates Ordains, that the Lands and Teinds ſhall pay the foreſaid Maintenance, as they lie locally in Shires and Burghs, conform to the former Act of Maintenance; And it is hereby Declared, that this Act is to be without prejudice of the Priviledges of the Lords of Seſsion, conform to former Acts of Maintenance: And Ordains the ſame preſently to be Proclaimed, And thereafter Printed.</p>
+            <closer>
+               <signed>
+                  <hi>William Scot,</hi> Cler. Parl.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Edinburgh,</hi> Printed by <hi>Evan Tyler,</hi> Printer to the Kings moſt excellent Majeſty, 1649.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
